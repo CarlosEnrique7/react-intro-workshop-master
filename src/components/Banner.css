@@ -1,0 +1,42 @@
+.banner-section {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.text {
+}
+
+.title {
+  font-size: 48px;
+}
+
+.banner-section .description {
+  width: 40%;
+}
+
+.banner-section .image {
+  height: 24rem;
+  width: 24rem;
+}
+
+.icons {
+  display: flex;
+  width: 6rem;
+  justify-content: space-between;
+}
+
+.fa-brands {
+  color: white;
+  font-size: 32px;
+}
+
+.fa-brands:hover {
+  color: rgb(172, 7, 172);
+  transform: scale(1.2);
+}
+
+span {
+  color: rgb(172, 7, 172);
+}

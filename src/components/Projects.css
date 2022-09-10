@@ -1,0 +1,10 @@
+.project-grid {
+  display: flex;
+  justify-content: space-between;
+  height: 80vh;
+}
+
+.section-title {
+  text-align: center;
+  font-size: 48px;
+}
